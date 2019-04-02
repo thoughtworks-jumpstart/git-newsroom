@@ -27,6 +27,10 @@ Rules:
 
 3. Bonus activity: Pull requests
   - Teammate A: Remove one of your teammates (teammate B) as a collaborator from the repository
-  - Teammate B: Because you no longer have access, you won't be able to push to the original repo. You now have to (i) **fork** the repo, (ii) update the remote origin's url in your local machine (hint: use `git remote set-url origin <url>`).
+  - Teammate B: Because you no longer have access, you won't be able to push to the original repo. You now have to 
+  (i) **fork** the repo, 
+  (ii) update the remote origin's url in your local machine (hint: use `git remote set-url origin <url>`).
   - Teammate B: make a change, commit, push (to your forked repo) and submit a pull request to the original repo
   - (repeat process for remaining teammates)
+  - You can see this link with instructions on how to do a pull request witha fork repo
+  https://help.github.com/en/articles/creating-a-pull-request-from-a-fork
