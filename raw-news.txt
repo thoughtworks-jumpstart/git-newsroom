@@ -20,7 +20,7 @@ Bowling association announces decision to add the 11th pin to the game
 
 ### Finance
 
-# finance/stock_prices.txt
+# finance/dj_prices.txt
 Dow Jones crashed again.
 
 # finance/bitcoin_prices.txt
@@ -32,7 +32,7 @@ Yahoo stocks crashed again.
 # finance/forex.txt
 Trump announces ban on foreign money in NYSE.
 
-# finance/stock_prices.txt
+# finance/hsi_prices.txt
 Hang Seng Index up by 1 point today
 
 ### Local news
